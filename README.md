@@ -1,9 +1,8 @@
 
 
 # AntiUserbot
-
-> AntiUserbot 
-> AntiUserbot - allows you to control telegam.accounts through string session This program is launched from January 1, 2022
+ 
+> AntiUserbot - allows you to control telegam accounts through string session This program is launched from January 1, 2022
 
 ## Installation 
 
