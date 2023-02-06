@@ -2,8 +2,8 @@
 
 # AntiUserbot
 
-> Lorem Ipsum 
-> In particular, the course towards a socially oriented national project plays an important role in shaping the appropriate conditions for activation. Cartels do not allow a situation in which the elements of the political process are turned into a laughing stock, although their very existence brings undoubted benefits to society.
+> AntiUserbot 
+> AntiUserbot - allows you to control telegam.accounts through string session This program is launched from January 1, 2022
 
 ## Installation 
 
